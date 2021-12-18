@@ -1,14 +1,13 @@
 <!-- _coverpage.md -->
 
-![logo](https://throwable-blog-1256189093.cos.ap-guangzhou.myqcloud.com/202009/_media/icon.svg)
+<!-- ![logo](./asset/homepage/烂笔头.png) -->
+<div align="center"><a><img width="200" heigth="200" src="./asset/homepage/烂笔头.png"></a></div>
 
-# docsify <small>3.5</small>
+> 好记性不如烂笔头
 
-> 一个神奇的文档网站生成器。
+- 大数据开发、Java开发笔记
+- 计算机知识基础
+- 实战项目
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/eastlong/lanbitou)
+[Get Started](https://eastlong.github.io/lanbitou/#/)
